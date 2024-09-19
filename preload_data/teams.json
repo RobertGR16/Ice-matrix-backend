@@ -1,0 +1,47 @@
+[
+    {
+      "ID": "ЛКМ",
+      "Name": "Локомотив",
+      "LogoURL": "http://example.com/logo_lkm.png",
+      "DateOfFounding": "1959-10-10",
+      "City": "Ярославль",
+      "Address": "ул. Гагарина, 16, Ярославль",
+      "Email": "info@lokomotiv.ru",
+      "Website": "http://www.hclokomotiv.ru",
+      "Trainer": "Игорь Никитин"
+    },
+    {
+      "ID": "СПР",
+      "Name": "Спартак",
+      "LogoURL": "http://example.com/logo_spr.png",
+      "DateOfFounding": "1946-12-22",
+      "City": "Москва",
+      "Address": "ул. Красная Пресня, 24, Москва",
+      "Email": "info@spartak.ru",
+      "Website": "http://www.spartak.ru",
+      "Trainer": "Алексей Жамнов"
+    },
+    {
+      "ID": "ЦСКА",
+      "Name": "ЦСКА",
+      "LogoURL": "http://example.com/logo_cska.png",
+      "DateOfFounding": "1946-12-22",
+      "City": "Москва",
+      "Address": "ул. Ленинградский проспект, 39, Москва",
+      "Email": "info@cska.ru",
+      "Website": "http://www.cska.ru",
+      "Trainer": "Сергей Фёдоров"
+    },
+    {
+      "ID": "СКА",
+      "Name": "СКА",
+      "LogoURL": "http://example.com/logo_ska.png",
+      "DateOfFounding": "1946-12-22",
+      "City": "Санкт-Петербург",
+      "Address": "пр. Юрия Гагарина, 8, Санкт-Петербург",
+      "Email": "info@ska.ru",
+      "Website": "http://www.ska.ru",
+      "Trainer": "Роман Ротенберг"
+    }
+  ]
+  
